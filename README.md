@@ -2,6 +2,7 @@
 
 - ⚒️ I’m currently a Junior Front-End & Back-End Web Developer.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 🚀 I’m currently learning to build T3 Stack Application.
 - 📖 I’m currently Information Technology Student at University Atma Jaya Makassar.
 - 🤔 I’m looking for help with Cloud Platform Technologies and Complex Software Architecture Pattern.
 
