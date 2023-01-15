@@ -2,7 +2,6 @@
 
 - ⚒️ I’m currently a Junior Front-End & Back-End Web Developer.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 🚀 I’m currently learning to build T3 Stack Application.
 - 📖 I’m currently Information Technology Student at University Atma Jaya Makassar.
 - 🤔 I’m looking for help with Cloud Platform Technologies and Complex Software Architecture Pattern.
 
@@ -23,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.Js" alt="Next.Js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.Js" alt="Node.Js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.Js" alt="Nest.Js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.Js" alt="Express.Js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
