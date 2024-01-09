@@ -1,7 +1,7 @@
 ### Hello There, My name is Darmawan 👋
 
-- 🏢 I'm currently working as a Front-End Web Developer.
-- 🧠 I’m a Junior Front-End & Back-End Web Developer enthusiast.
+- 🏢 I'm currently working as a Software engineer.
+- 🧠 I’m a Front-End & Back-End Web Developer enthusiast.
 - 🎓 I’m currently learning Machine Learning and Deep Learning for my thesis.
 - 📖 I’m currently Information Technology Student at University Atma Jaya Makassar.
 
