@@ -22,7 +22,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express.Js" alt="Express.Js" width="50" height5080"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg" title="Bun" alt="Bun" width="50" height5080"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySql" alt="MySql" width="50" height="50"/>&nbsp;
