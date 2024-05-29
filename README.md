@@ -17,7 +17,7 @@
 ### Tools:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="Node.Js" alt="Electron.js" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" title="Electron.js" alt="Electron.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
