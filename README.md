@@ -24,6 +24,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg" title="Bun" alt="Bun" width="50" height5080"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" title="Prisma" alt="Prisma" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySql" alt="MySql" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>&nbsp;
