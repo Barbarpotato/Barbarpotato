@@ -6,7 +6,8 @@
 - 📖 I’m always trying to keep up with the latest techonology by learning
 
 ---
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=dracula)
 
 ---
 ### Tools:
