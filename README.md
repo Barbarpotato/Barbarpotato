@@ -7,7 +7,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=synthwave)
 
 ---
 ### Tools:
