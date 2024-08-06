@@ -7,18 +7,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=synthwave" alt="Top Langs" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=barbarpotato&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
----
 ### Tools:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -35,3 +23,18 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySql" alt="MySql" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>&nbsp;
 </div>
+
+---
+
+<table>
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=barbarpotato&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=synthwave" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+
