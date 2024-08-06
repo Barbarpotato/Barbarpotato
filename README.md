@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=barbarpotato&show_icons=true&theme=radical" alt="GitHub Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=barbarpotato&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
     </td>
     <td>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=synthwave" alt="Top Langs" />
