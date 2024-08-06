@@ -7,10 +7,16 @@
 
 ---
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=synthwave" alt="Top Langs" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=barbarpotato&show_icons=true&theme=synthwave&hide_rank=true" alt="GitHub Stats" style="width: 50%;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarpotato&hide_progress=true&theme=synthwave" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=barbarpotato&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 ### Tools:
